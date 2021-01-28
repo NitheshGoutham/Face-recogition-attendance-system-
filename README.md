@@ -35,4 +35,3 @@ It has four modules:
 
 NOTE: (You can run all these program at the same time with the help of firstpage.py program)
 
-youtube link : https://youtu.be/rnMSo5kx4RA
